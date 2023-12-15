@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>NeedIt Tasks</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_58872_needit_needit_tasks</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Task" name="sn_customerservice_task">fab7b39e975e31102b0eb2a0f053af95</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-15 21:01:36</sys_created_on>
+        <sys_id>1c3adc87974731102b0eb2a0f053afd3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Tasks</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_db_object_1c3adc87974731102b0eb2a0f053afd3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-15 21:01:36</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_58872_needit.needit_tasks_user" name="x_58872_needit.needit_tasks_user">ef4a548f978b31102b0eb2a0f053af73</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>e0c7e5dbdb7a00d02f68c5970596190f</instance_id>
+        <instance_name>dev100364</instance_name>
+        <name>sys_db_object_1c3adc87974731102b0eb2a0f053afd3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><is_extendable>false</is_extendable><label>NeedIt Tasks</label><live_feed_enabled>false</live_feed_enabled><name>x_58872_needit_needit_tasks</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Task" name="sn_customerservice_task">fab7b39e975e31102b0eb2a0f053af95</super_class><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-15 21:01:36</sys_created_on><sys_id>1c3adc87974731102b0eb2a0f053afd3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt Tasks</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_db_object_1c3adc87974731102b0eb2a0f053afd3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-15 21:01:36</sys_updated_on><update_access>false</update_access><user_role display_value="x_58872_needit.needit_tasks_user" name="x_58872_needit.needit_tasks_user">ef4a548f978b31102b0eb2a0f053af73</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-180462326</payload_hash>
+        <record_name>NeedIt Tasks</record_name>
+        <reverted_from/>
+        <source>54265fe197c731102b0eb2a0f053afb2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-15 21:01:39</sys_created_on>
+        <sys_id>d05a948f978b31102b0eb2a0f053af2d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c6f48ec340000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-15 21:01:39</sys_updated_on>
+        <type>Table</type>
+        <update_guid>185a948f858b3110a298b58bebb8052c</update_guid>
+        <update_guid_history>185a948f858b3110a298b58bebb8052c:-180462326</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-15 22:22:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>a67c0d54de2a4b5288577f782aae8bc4</sys_id>
+        <sys_metadata>1c3adc87974731102b0eb2a0f053afd3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Tasks</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_db_object_1c3adc87974731102b0eb2a0f053afd3</sys_update_name>
+        <sys_update_version display_value="sys_db_object_1c3adc87974731102b0eb2a0f053afd3">d05a948f978b31102b0eb2a0f053af2d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-15 22:22:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
